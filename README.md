@@ -10,7 +10,7 @@ These budgets contain important information about the assumptions the business i
 ### Task Description
 - Analyze the structure of the sheet provided and sketch out an algorithm that would figuratively read this sheet and synthesize it down into a compact data structure.
 - Do not provide a data structure that just saves all the cells as is; this is not the objective. We are primarily interested in parsing the relationships between cells or sets of cells that define the budget, synthesizing it to its essentials. 
-- Provide a public link to your solution. Format is up to you, but make sure that you explain your thought process in detail.
+- Provide a public link to your solution (ideally hosted Github or Google Drive). Format is up to you, but make sure that you explain your thought process in detail.
 
 ### Additional Notes
 - To help you understand the use case, imagine a scenario where this Excel file is uploaded, and a program has to decipher the relationships between cells or sets of cells so that the projections may be effectively loaded into an application.
