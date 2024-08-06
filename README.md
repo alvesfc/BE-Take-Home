@@ -1,10 +1,10 @@
 # Welcome
-Hello 👋<br />
-We are thrilled about the possibility of you joining our team. This take-home exercise is designed to help us understand how you approach problems. It's a great opportunity for you to showcase your abilities and for us to see how we might work together.<br />
+Hello 👋<br /><br />
+We are thrilled about the possibility of you joining our team. This take-home exercise is designed to help us understand how you approach problems. It's a great opportunity for you to showcase your abilities and for us to see how we might work together.<br /><br />
 Thank you for taking the time, and we look forward to speaking with you soon!
 ### Intro
 Finance teams at companies create budgets with some assumptions about their business. Excel is the most widely used tool for this purpose. Here is a simplified example of a budget (financial projections) that you can refer to:<br />
-[Financial Projections Example](https://docs.google.com/spreadsheets/d/1B30XbPre5XyD9ItRZ6PN98xCeZe4SplpNQhEjq2ASHo/edit?usp=sharing)<br />
+[Financial Projections Example](https://docs.google.com/spreadsheets/d/1B30XbPre5XyD9ItRZ6PN98xCeZe4SplpNQhEjq2ASHo/edit?usp=sharing)<br /><br />
 These budgets contain important information about the assumptions the business is making. We are interested in building a feature that parses excel sheets and singles out these assumptions to allow financial decision makers to easily build their budgets in varying business conditions (e.g. what if the Product Sales only go up by 1% per month instead of 4% as provided in the above example)
 
 ### Task Description
