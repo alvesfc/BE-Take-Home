@@ -9,11 +9,11 @@ These budgets contain important information about the assumptions the business i
 
 ### Task Description
 - Analyze the structure of the sheet provided and sketch out an algorithm that would figuratively read this sheet and synthesize it down into a compact data structure.
-- Do not provide a data structure that just saves all the cells as is; this is not the objective. We are primarily interested in parsing the relationships between cells or sets of cells that define the budget, synthesizing it to its essentials. 
+- Do not provide a data structure that just saves all the cells as is; this is not the objective. We are primarily interested in your algorithm that parses the relationships between cells or sets of cells that define the budget, synthesizing it to its essentials. 
 - Provide a public link to your solution (ideally hosted Github or Google Drive). Format is up to you, but make sure that you explain your thought process in detail.
 
 ### Additional Notes
-- To help you understand the use case, imagine a scenario where this Excel file is uploaded, and a program has to decipher the relationships between cells or sets of cells so that the projections may be effectively loaded into an application.
+- To help you understand the use case, imagine a scenario where this Excel file is uploaded, and an algorithm has to decipher the relationships between cells or sets of cells so that the projections may be effectively loaded into an application.
 - We are not looking for you to build an app or to code; the objective here is to define the approach you will take to build the solution. However, if the problem is pushing you to go all the way, please feel free to go the extra mile. 
 - Give it your best shot (don’t let perfect be the enemy of good)
 - We encourage you to ask us about anything you're unclear on via email at [careers@finofo.com](mailto:careers@finofo.com)
