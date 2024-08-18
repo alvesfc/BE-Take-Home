@@ -17,3 +17,6 @@ These budgets contain important information about the assumptions the business i
 - We are not looking for you to build an app or to code; the objective here is to define the approach you will take to build the solution. However, if the problem is pushing you to go all the way, please feel free to go the extra mile. 
 - Give it your best shot (don’t let perfect be the enemy of good)
 - We encourage you to ask us about anything you're unclear on via email at [careers@finofo.com](mailto:careers@finofo.com)
+
+### Hints
+- Do not hardcode rows or columns; you want to have the program itself detect the relationships. Sheets could come in very varied different formats with different rows, row labels, etc.
