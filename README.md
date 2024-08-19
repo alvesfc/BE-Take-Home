@@ -19,4 +19,4 @@ These budgets contain important information about the assumptions the business i
 - We encourage you to ask us about anything you're unclear on via email at [careers@finofo.com](mailto:careers@finofo.com)
 
 ### Hints
-- *Do not* hardcode the rows or columns; you want to have the program itself detect the relationships. Sheets could come in very varied different formats with different rows, row labels, etc.
+- *Do not* hardcode the rows or columns; you want to have the program itself detect the relationships/formulas. Sheets could come in very varied different formats with different rows, row labels, etc.
