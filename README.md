@@ -20,4 +20,5 @@ These budgets contain important information about the assumptions the business i
 
 ### Hints
 - *Do not* hardcode the rows or columns; you want to have the program itself detect the relationships/formulas.
+- Most of the provided spreadsheet's cells do not consist of hardcoded values and should not be treated as such. You can glance at the formulas that power the spreadsheet, cell-by-cell, to help you ideate.
 - Sheets could come in very varied different formats with different rows, row labels, etc.
